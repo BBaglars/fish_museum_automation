@@ -271,10 +271,10 @@ XR Simulation ortamında sol tık ile yüzeye balık yerleştirme test edilebili
 
 ## 👥 Geliştiriciler
 
-Berkay BAĞLARS - 245541020
-Aziz BOLAT - 225541123
-Yunus GÜÇLÜ - 225541089
-Mert Kaan KİNDAR - 225541039
+- Berkay BAĞLARS 245541020
+- Aziz BOLAT 225541123
+- Yunus GÜÇLÜ 225541089
+- Mert Kaan KİNDAR 225541039
 
 ---
 
